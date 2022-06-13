@@ -2,7 +2,7 @@ import os
 import shutil
 #import subprocess
 
-path = "C:/Users/j_kiauleikis/Desktop/Cegedim/"
+path = "C:/Users/"
 usb_path = "E:/"
 folder_ls = os.listdir(path)
 
